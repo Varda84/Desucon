@@ -155,7 +155,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"playaudio",
                  "type":"string",
                  "value":"https:\/\/varda84.github.io\/Merethes-lyder\/CaramellDansen%20(Full%20Version%20%2B%20Lyrics).mp3"
                 }],
@@ -1010,7 +1010,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }],
          "tilewidth":32
