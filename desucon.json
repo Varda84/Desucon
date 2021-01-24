@@ -987,7 +987,7 @@
         {
          "columns":10,
          "firstgid":2110,
-         "image":"..\/..\/..\/..\/..\/Downloads\/fantasy_weapons_pack1_noglow.png",
+         "image":"fantasy_weapons_pack1_noglow.png",
          "imageheight":160,
          "imagewidth":320,
          "margin":0,
@@ -1007,6 +1007,19 @@
          "name":"Medieval",
          "spacing":0,
          "tilecount":432,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":14,
+         "firstgid":2592,
+         "image":"MegaPixelArt32x32pxIcons_SpriteSheet.png",
+         "imageheight":1152,
+         "imagewidth":448,
+         "margin":0,
+         "name":"Div",
+         "spacing":0,
+         "tilecount":504,
          "tileheight":32,
          "tilewidth":32
         }],
