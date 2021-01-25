@@ -205,7 +205,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.https:\/\/www.neo-tokyo.no\/"
+                 "value":"https:\/\/www.neo-tokyo.no\/"
                 }],
          "type":"tilelayer",
          "visible":true,
