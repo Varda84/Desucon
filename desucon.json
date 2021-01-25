@@ -203,9 +203,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":".\/mp3\/CaramellDansen%20(Full%20Version%20%2B%20Lyrics).mp3"
+                 "value":"https:\/\/www.https:\/\/www.neo-tokyo.no\/"
                 }],
          "type":"tilelayer",
          "visible":true,
