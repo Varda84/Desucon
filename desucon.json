@@ -223,7 +223,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":".\/etsyframe.html?shopid=19485872"
+                 "value":".\/html\/etsyframe.html?shopid=19485872"
                 }],
          "type":"tilelayer",
          "visible":true,
