@@ -8,7 +8,8 @@
         },
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"."
         }
     },
  "height":91,
@@ -102,7 +103,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/varda84.github.io\/Digicon\/html\/etsyframe.html?shopid=16103862"
+                 "value":"https:\/\/www.facebook.com\/daijvinasdesign"
                 }],
          "type":"tilelayer",
          "visible":true,
