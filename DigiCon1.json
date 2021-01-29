@@ -65,7 +65,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebpage",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.outland.no"
                 }],
@@ -83,7 +83,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebpage",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.neo-tokyo.no"
                 }],
