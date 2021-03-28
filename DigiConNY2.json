@@ -50,6 +50,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"DigiConPauseOmr\u00e5de"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Klikk HER for \u00e5 bli med!"
                 }],
          "type":"tilelayer",
          "visible":true,
