@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"DigiConTesting.json#start2"
+                 "value":"DigiConNY3.json#start2"
                 }],
          "type":"tilelayer",
          "visible":true,
