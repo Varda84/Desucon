@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Skatteromjson#start"
+                 "value":"Skatterom.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
