@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Lava.json#start"
+                 "value":"Lava3.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
