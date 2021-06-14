@@ -1493,19 +1493,6 @@
          "tilecount":100,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":100,
-         "firstgid":5840,
-         "image":"Merethes logoer 2.png",
-         "imageheight":3200,
-         "imagewidth":3200,
-         "margin":0,
-         "name":"Merethes logoer 2",
-         "spacing":0,
-         "tilecount":10000,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
