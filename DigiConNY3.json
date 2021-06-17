@@ -170,7 +170,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"www.skeivungdom.no"
+                 "value":"http:\/\/www.skeivungdom.no"
                 }],
          "type":"tilelayer",
          "visible":true,
