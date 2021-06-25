@@ -435,6 +435,11 @@
                  "value":"Cafe2"
                 }, 
                 {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"moderator"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
