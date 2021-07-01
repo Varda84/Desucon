@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"DigiConNY3.json#start"
+                 "value":"https:\/\/play.workadventu.re\/@\/digicon\/digicon\/digicon2#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -54,7 +54,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Skatterom.json#start"
+                 "value":"https:\/\/play.workadventu.re\/@\/digicon\/digicon\/digicon_ny3#start"
                 }],
          "type":"tilelayer",
          "visible":true,

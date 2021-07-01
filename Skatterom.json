@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"DigiCon2.json#start2"
+                 "value":"https:\/\/play.workadventu.re\/@\/digicon\/digicon\/digicon2#start"
                 }],
          "type":"tilelayer",
          "visible":true,
