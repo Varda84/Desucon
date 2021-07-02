@@ -96,7 +96,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"Drakosha"
+                 "value":"https:\/\/varda84.github.io\/Drakosha\/"
                 }],
          "type":"tilelayer",
          "visible":true,
